@@ -40,7 +40,7 @@ print(age)
 # Cambiamos su tipo
 
 name = 35
-age = "Brais"
+age = "BTT"
 
 print(name)
 print(age)
